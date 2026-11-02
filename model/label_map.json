@@ -1,0 +1,11 @@
+{
+  "target": "diagnosis",
+  "label_map": {
+    "M": 1,
+    "B": 0
+  },
+  "class_names": [
+    "Benign (0)",
+    "Malignant (1)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Logistic Regression": {
+    "C": 100,
+    "class_weight": null
+  },
+  "Decision Tree": {
+    "class_weight": null,
+    "criterion": "gini",
+    "max_depth": 4,
+    "min_samples_leaf": 2
+  },
+  "KNN": {
+    "n_neighbors": 15,
+    "p": 2,
+    "weights": "distance"
+  },
+  "Naive Bayes": {
+    "var_smoothing": 1e-12
+  },
+  "Support Vector Machine": {
+    "C": 10,
+    "class_weight": null,
+    "gamma": 0.01,
+    "kernel": "rbf"
+  }
+}
